@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-05)
+## Unreleased (2026-01-25)
 
 <section class="features">
 
@@ -22,6 +22,8 @@
 
 <details>
 
+-   [`e42451a`](https://github.com/stdlib-js/stdlib/commit/e42451a082479c4f573c60885a54fa9a6fc4313e) - **refactor:** simplify package structure and remove extra browser entry _(by Philipp Burckhardt)_
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`948e04b`](https://github.com/stdlib-js/stdlib/commit/948e04bf760415e316dbf802d78d82478ca72b2c) - **docs:** update examples _(by Athan Reines)_
 -   [`afca27e`](https://github.com/stdlib-js/stdlib/commit/afca27e5a12962febf70b6de36e2cea94295b16b) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`3c776ed`](https://github.com/stdlib-js/stdlib/commit/3c776ed5458e453e0fa0135a9b689fc54602af4a) - **refactor:** update paths _(by Gururaj Gurram)_

@@ -26,7 +26,7 @@ var isnan = require( '@stdlib/math-base-assert-is-nan' );
 var isPositiveZero = require( '@stdlib/math-base-assert-is-positive-zero' );
 var Float64Array = require( '@stdlib/array-float64' );
 var Uint8Array = require( '@stdlib/array-uint8' );
-var nanmskrange = require( './../lib/nanmskrange.js' );
+var nanmskrange = require( './../lib/main.js' );
 
 
 // TESTS //
